@@ -29,7 +29,8 @@ _fetch $URL from farsightsample limit 1
 
 ###### Sample walkthrough screenshot of get_url_report
 
-![Get URL Report](readme-media/screenshot/get_url_report.jpg)
+![get_url_report](https://user-images.githubusercontent.com/40236269/42689961-2b2dedce-86c0-11e8-9947-5cdff596d7a0.jpg)
+
 
 The lookup call returns output in the following structure for available data
 
@@ -54,7 +55,8 @@ _fetch $SrcIP from farsightsample limit 1
 
 ###### Sample walkthrough screenshot of get_ipv4_report
 
-![Get IPv4 Report](readme-media/screenshot/get_ipv4_report.jpg)
+![get_ipv4_report](https://user-images.githubusercontent.com/40236269/42689986-3f0922a0-86c0-11e8-8d03-0e86c5cd2ed4.jpg)
+
 
 The lookup call returns output in the following structure for available data
 
@@ -80,7 +82,7 @@ _fetch $Ipv6 from farsightsample limit 1
 
 ###### Sample walkthrough screenshot of get_ipv6_report
 
-![Get IPv6 Report](readme-media/screenshot/get_ipv6_report.jpg)
+![get_ipv6_report](https://user-images.githubusercontent.com/40236269/42690009-50fd5616-86c0-11e8-8e5b-348296bf0434.jpg)
 
 The lookup call returns output in the following structure for available data
 
@@ -104,7 +106,8 @@ _fetch $Nameserver from farsightsample limit 1
 
 ###### Sample walkthrough screenshot of get_nameserver_report
 
-![Get Nameserver Report](readme-media/screenshot/get_nameserver_report.jpg)
+![get_nameserver_report](https://user-images.githubusercontent.com/40236269/42690022-6276d12e-86c0-11e8-9426-72a0a2f30591.jpg)
+
 
 The lookup call returns output in the following structure for available data
 
@@ -128,7 +131,8 @@ _fetch $Mailexchange from farsightsample limit 1
 
 ###### Sample walkthrough screenshot of get_mailexchange_report
 
-![Get Mailexchange Report](readme-media/screenshot/get_mailexchange_report.jpg)
+![get_mailexchange_report](https://user-images.githubusercontent.com/40236269/42690039-78886a72-86c0-11e8-9ff3-bc66d1d701eb.jpg)
+
 
 The lookup call returns output in the following structure for available data
 
